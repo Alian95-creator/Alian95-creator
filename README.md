@@ -1,6 +1,6 @@
 # Hello 👋
 ## Wellcome to my Github
-
+![Header](img/github-header-banner.png)
 <!--
 **Alian95-creator/Alian95-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...**Landing page**,**Web design**
 - 💬 Ask me about ... [Click here](https://wa.me/6281400648141)
 - 📫 How to contact me: [Linkedin](https://www.linkedin.com/in/alifian-candra-7259b5190/)
-![work](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0cXJ4MjE1cWdkbmFqaWxwbnZqbDMyandlNDQ3M3Rra3RyMWl3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
