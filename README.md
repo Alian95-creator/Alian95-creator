@@ -1,4 +1,4 @@
-![Header](img/github-header-banner.png)
+![Header](img/github-header-banner2.png)
 
 ##### **SKILS**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
