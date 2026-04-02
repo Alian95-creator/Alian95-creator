@@ -1,7 +1,7 @@
 ![Header](img/github-header-banner2.png)
 
 ##### **SKILS**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,TailwindCSS,git,github)](https://skillicons.dev)
 
 **Building Responsive Web Applications | Focused on Clean & Responsive UI | Open to Remote Opportunities**
 
