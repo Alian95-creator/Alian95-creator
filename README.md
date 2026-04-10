@@ -63,7 +63,7 @@ I don’t just write code — I focus on:
 </a>
 
 <a href="https://x.com/Alian95_creator" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=X&logoColor=black" />
+  <img src="https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=X&logoColor=white" />
 </a>
 
 </div>
