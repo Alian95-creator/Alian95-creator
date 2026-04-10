@@ -62,6 +62,10 @@ I don’t just write code — I focus on:
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/alifian-candra-7259b5190/" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=X&logoColor=black" />
+</a>
+
 </div>
 
 ---
